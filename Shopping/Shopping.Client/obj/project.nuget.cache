@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FT1orr4GmwoiePEC1bgdbgKf2caA5LmE9Ip1iVa9QOp+37/gyKSJv2CmS0ON+Cni75FHrXEi/fkW982CvzgGFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\aspnetrun\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
